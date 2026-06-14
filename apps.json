@@ -1,13 +1,13 @@
 [
   {
-    "name": "DnsX",
-    "packageName": "com.junior.dnsx",
-    "versionName": "1.0",
-    "versionCode": 1,
-    "description": "Scanner de DNS rápido com VPN local.",
-    "iconUrl": "",
-    "apkUrl": ""
-  },
+  "name": "DnsX",
+  "packageName": "com.junior.dnsx",
+  "versionName": "2.2",
+  "versionCode": 22,
+  "description": "Scanner de DNS rápido com VPN local.",
+  "iconUrl": "",
+  "apkUrl": ""
+  }
   {
     "name": "CamX",
     "packageName": "com.app.camera.x",

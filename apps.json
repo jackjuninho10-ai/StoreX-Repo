@@ -1,14 +1,14 @@
 [
   {
-    "name": "StoreX",
-    "packageName": "com.store.x.pack",
-    "versionName": "1.1",
-    "versionCode": 2,
-    "description": "Loja oficial do X Pack para baixar, instalar e atualizar apps.",
-    "iconUrl": "https://raw.githubusercontent.com/jackjuninho10-ai/StoreX-Repo/main/icons/storex.png",
-    "apkUrl": "https://github.com/jackjuninho10-ai/StoreX-Repo/releases/download/storex-v1.1/StoreX_v1.1.apk",
-    "latestUpdateLog": "StoreX v1.1 — Atualização de lançamento avançado\n\n• StoreX adicionada ao próprio catálogo\n• Nova logo oficial da loja\n• Interface escura com identidade azul do X Pack\n• Tela de sem internet no lugar de popup inferior\n• Botão Tentar novamente quando o catálogo não carrega\n• Detecção de apps instalados\n• Botão inteligente: Instalar, Atualizar ou Instalado\n• Botão Instalado agora fica cinza escuro e não é clicável\n• Detecção de atualização usando versionCode\n• Download interno de APKs\n• Instalador integrado usando o instalador nativo do Android\n• Tela de download com porcentagem, barra de progresso e velocidade em KB/s ou MB/s\n• Cache local de ícones para evitar recarregamento toda vez que abrir\n• Tela de detalhes ao tocar em um app\n• Detalhes mostrando ícone, nome, tamanho, versão instalada quando existir e versão mais atual do GitHub\n• Área de log da atualização mais recente\n• Área de descrição geral sobre cada app\n• Melhorias na detecção do QrCodeX instalado\n• Melhor organização visual do catálogo\n• Preparação para futuras atualizações do X Pack",
-    "aboutLog": "StoreX é a loja oficial do X Pack. Ela centraliza os apps criados no AndroidIDE, permitindo visualizar catálogo, versões, tamanho dos APKs, logs de atualização e instalar ou atualizar aplicativos diretamente pelo GitHub. A proposta da StoreX é ser uma loja leve, escura, rápida e independente para o ecossistema X."
+  "name": "StoreX",
+  "packageName": "com.store.x.pack",
+  "versionName": "1.2",
+  "versionCode": 3,
+  "description": "Loja oficial do X Pack para baixar, instalar e atualizar apps.",
+  "iconUrl": "https://raw.githubusercontent.com/jackjuninho10-ai/StoreX-Repo/main/icons/storex.png",
+  "apkUrl": "https://github.com/jackjuninho10-ai/StoreX-Repo/releases/download/storex-v1.2/StoreX_v1.2.apk",
+  "latestUpdateLog": "StoreX v1.2 — Login Google e sistema de downloads\n\n• Adicionado login com conta Google\n• Foto da conta Google aparece no canto superior direito\n• Downloads agora podem ser contabilizados no Firebase\n• Atualizações não entram como novo download\n• Instalações e atualizações exigem login ativo\n• Nova tela de primeiro login com visual azul escuro + preto\n• Botão Entrar com Google redesenhado\n• Removido popup cinza antigo de login\n• Melhorias na tela de sem internet\n• Ajustes no layout do catálogo\n• Botões Instalar, Atualizar e Instalado refinados\n• Melhorias internas para comunicação com Firebase\n• Preparação para estatísticas futuras da StoreX",
+  "aboutLog": "StoreX é a loja oficial do X Pack. Ela centraliza os apps criados no AndroidIDE, permitindo visualizar catálogo, versões, tamanho dos APKs, logs de atualização e instalar ou atualizar aplicativos diretamente pelo GitHub. A StoreX foi feita para ser uma loja leve, escura, rápida, independente e integrada ao ecossistema X Pack."
   },
   {
     "name": "DnsX",

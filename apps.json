@@ -1,1 +1,30 @@
+[
+  {
+    "name": "DnsX",
+    "packageName": "com.junior.dnsx",
+    "versionName": "1.0",
+    "versionCode": 1,
+    "description": "Scanner de DNS rápido com VPN local.",
+    "iconUrl": "",
+    "apkUrl": ""
+  },
+  {
+    "name": "CamX",
+    "packageName": "com.app.camera.x",
+    "versionName": "1.1.1",
+    "versionCode": 3,
+    "description": "Câmera alternativa com modo foto e vídeo.",
+    "iconUrl": "",
+    "apkUrl": ""
+  },
+  {
+    "name": "BandX",
+    "packageName": "com.app.bandx",
+    "versionName": "1.0",
+    "versionCode": 1,
+    "description": "Informações da rede móvel.",
+    "iconUrl": "",
+    "apkUrl": ""
+  }
+]
 

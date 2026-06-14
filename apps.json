@@ -6,7 +6,9 @@
     "versionCode": 5,
     "description": "Scanner de DNS rápido com VPN local.",
     "iconUrl": "https://raw.githubusercontent.com/jackjuninho10-ai/StoreX-Repo/main/icons/dnsx.png",
-    "apkUrl": "https://github.com/jackjuninho10-ai/StoreX-Repo/releases/download/dnsx-v2.2/DnsX_v2.2.apk"
+    "apkUrl": "https://github.com/jackjuninho10-ai/StoreX-Repo/releases/download/dnsx-v2.2/DnsX_v2.2.apk",
+    "latestUpdateLog": "• Melhorias no catálogo da StoreX\n• Versão 2.2 disponível para download\n• Ajustes gerais de estabilidade",
+    "aboutLog": "DnsX é um app do X Pack focado em DNS, rede e VPN local. Ele foi criado para ajudar a testar, trocar e usar DNS de forma mais prática no Android."
   },
   {
     "name": "CamX",
@@ -15,7 +17,9 @@
     "versionCode": 3,
     "description": "Câmera alternativa com foto e vídeo.",
     "iconUrl": "https://raw.githubusercontent.com/jackjuninho10-ai/StoreX-Repo/main/icons/camx.png",
-    "apkUrl": "https://github.com/jackjuninho10-ai/StoreX-Repo/releases/download/camx-v1.1.1/CamX_v1.1.1.apk"
+    "apkUrl": "https://github.com/jackjuninho10-ai/StoreX-Repo/releases/download/camx-v1.1.1/CamX_v1.1.1.apk",
+    "latestUpdateLog": "• Correções de orientação em paisagem\n• Melhor adaptação da câmera ao girar o aparelho\n• Ajustes visuais e de estabilidade",
+    "aboutLog": "CamX é uma câmera alternativa do X Pack criada para testar recursos de foto e vídeo com interface simples, visual próprio e foco em evolução rápida."
   },
   {
     "name": "BandX",
@@ -24,7 +28,9 @@
     "versionCode": 1,
     "description": "Informações da rede móvel.",
     "iconUrl": "https://raw.githubusercontent.com/jackjuninho10-ai/StoreX-Repo/main/icons/bandx.png",
-    "apkUrl": "https://github.com/jackjuninho10-ai/StoreX-Repo/releases/download/bandx-v1.0/BandX_v1.0.apk"
+    "apkUrl": "https://github.com/jackjuninho10-ai/StoreX-Repo/releases/download/bandx-v1.0/BandX_v1.0.apk",
+    "latestUpdateLog": "• Primeira versão pública\n• Informações básicas de rede móvel\n• Interface inicial do X Pack",
+    "aboutLog": "BandX é um app voltado para visualizar informações de rede móvel, bandas e conexão. A ideia é ser uma ferramenta rápida para entender melhor o sinal do aparelho."
   },
   {
     "name": "MusicX",
@@ -33,7 +39,9 @@
     "versionCode": 1,
     "description": "Player de música do X Pack.",
     "iconUrl": "https://raw.githubusercontent.com/jackjuninho10-ai/StoreX-Repo/main/icons/musicx.png",
-    "apkUrl": "https://github.com/jackjuninho10-ai/StoreX-Repo/releases/download/musicx-v1.0/MusicX_v1.0.apk"
+    "apkUrl": "https://github.com/jackjuninho10-ai/StoreX-Repo/releases/download/musicx-v1.0/MusicX_v1.0.apk",
+    "latestUpdateLog": "• Primeira versão pública\n• Reprodução básica de músicas\n• Visual inicial com identidade X",
+    "aboutLog": "MusicX é o player de música do X Pack, pensado para tocar músicas com visual escuro, estilo azul e futura evolução com playlists, favoritos e equalizador."
   },
   {
     "name": "NotesX",
@@ -42,7 +50,9 @@
     "versionCode": 1,
     "description": "Bloco de notas simples e rápido.",
     "iconUrl": "https://raw.githubusercontent.com/jackjuninho10-ai/StoreX-Repo/main/icons/notesx.png",
-    "apkUrl": "https://github.com/jackjuninho10-ai/StoreX-Repo/releases/download/notesx-v1.0/NotesX_v1.0.apk"
+    "apkUrl": "https://github.com/jackjuninho10-ai/StoreX-Repo/releases/download/notesx-v1.0/NotesX_v1.0.apk",
+    "latestUpdateLog": "• Primeira versão pública\n• Criação e edição de notas\n• Exportação simples de texto",
+    "aboutLog": "NotesX é um bloco de notas leve do X Pack, feito para escrever ideias, salvar textos e manter anotações de forma simples e direta."
   },
   {
     "name": "RecorderX",
@@ -51,7 +61,9 @@
     "versionCode": 1,
     "description": "Gravador de áudio do X Pack.",
     "iconUrl": "https://raw.githubusercontent.com/jackjuninho10-ai/StoreX-Repo/main/icons/recorderx.png",
-    "apkUrl": "https://github.com/jackjuninho10-ai/StoreX-Repo/releases/download/recorderx-v1.0/RecorderX_v1.0.apk"
+    "apkUrl": "https://github.com/jackjuninho10-ai/StoreX-Repo/releases/download/recorderx-v1.0/RecorderX_v1.0.apk",
+    "latestUpdateLog": "• Primeira versão pública\n• Gravação básica de áudio\n• Interface inicial escura e simples",
+    "aboutLog": "RecorderX é o gravador de áudio do X Pack, criado para capturar sons, voz e registros rápidos com uma interface direta."
   },
   {
     "name": "CalculatorX",
@@ -60,13 +72,33 @@
     "versionCode": 8,
     "description": "Calculadora simples do X Pack.",
     "iconUrl": "https://raw.githubusercontent.com/jackjuninho10-ai/StoreX-Repo/main/icons/calculatorx.jpg",
-    "apkUrl": "https://github.com/jackjuninho10-ai/StoreX-Repo/releases/download/calculatorx-v2.0/CalculatorX_v2.0.apk"
+    "apkUrl": "https://github.com/jackjuninho10-ai/StoreX-Repo/releases/download/calculatorx-v2.0/CalculatorX_v2.0.apk",
+    "latestUpdateLog": "• Versão 2.0 publicada\n• Melhorias gerais na calculadora\n• Ajustes visuais e funcionais",
+    "aboutLog": "CalculatorX é a calculadora do X Pack. Ela foi feita para cálculos rápidos, com visual próprio e foco em simplicidade."
   },
   {
     "name": "XBattery",
     "packageName": "com.battery.x",
     "versionName": "1.0",
     "versionCode": 1,
+    "description": "Informações de bateria.",
+    "iconUrl": "https://raw.githubusercontent.com/jackjuninho10-ai/StoreX-Repo/main/icons/xbattery.png",
+    "apkUrl": "https://github.com/jackjuninho10-ai/StoreX-Repo/releases/download/xbattery-v1.0/XBattery_v1.0.apk",
+    "latestUpdateLog": "• Primeira versão pública\n• Informações básicas de bateria\n• Visual inicial do X Pack",
+    "aboutLog": "XBattery é um app para acompanhar informações da bateria e ajudar a entender melhor o estado energético do aparelho."
+  },
+  {
+    "name": "QrCodeX",
+    "packageName": "com.qrcode.x",
+    "versionName": "1.0",
+    "versionCode": 1,
+    "description": "Leitor e gerador de QR Code.",
+    "iconUrl": "https://raw.githubusercontent.com/jackjuninho10-ai/StoreX-Repo/main/icons/qrcode.png",
+    "apkUrl": "https://github.com/jackjuninho10-ai/StoreX-Repo/releases/download/qrcodex-v1.0/QrCodeX_v1.0.apk",
+    "latestUpdateLog": "• Primeira versão pública\n• Leitura e geração de QR Code\n• Interface inicial simples",
+    "aboutLog": "QrCodeX é o app do X Pack para ler e gerar QR Codes, pensado para ser rápido, leve e útil no dia a dia."
+  }
+]    "versionCode": 1,
     "description": "Informações de bateria.",
     "iconUrl": "https://raw.githubusercontent.com/jackjuninho10-ai/StoreX-Repo/main/icons/xbattery.png",
     "apkUrl": "https://github.com/jackjuninho10-ai/StoreX-Repo/releases/download/xbattery-v1.0/XBattery_v1.0.apk"

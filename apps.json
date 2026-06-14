@@ -1,30 +1,83 @@
 [
   {
-  "name": "DnsX",
-  "packageName": "com.junior.dnsx",
-  "versionName": "2.2",
-  "versionCode": 22,
-  "description": "Scanner de DNS rápido com VPN local.",
-  "iconUrl": "https://raw.githubusercontent.com/jackjuninho10-ai/StoreX-Repo/main/icons/dnsx.png",
-  "apkUrl": "https://github.com/jackjuninho10-ai/StoreX-Repo/releases/download/dnsx-v2.2/DnsX_v2.2.apk"
-  }
+    "name": "DnsX",
+    "packageName": "com.app.dns.internet.x",
+    "versionName": "2.2",
+    "versionCode": 5,
+    "description": "Scanner de DNS rápido com VPN local.",
+    "iconUrl": "https://raw.githubusercontent.com/jackjuninho10-ai/StoreX-Repo/main/icons/dnsx.png",
+    "apkUrl": "https://github.com/jackjuninho10-ai/StoreX-Repo/releases/download/dnsx-v2.2/DnsX_v2.2.apk"
+  },
   {
     "name": "CamX",
     "packageName": "com.app.camera.x",
     "versionName": "1.1.1",
     "versionCode": 3,
-    "description": "Câmera alternativa com modo foto e vídeo.",
-    "iconUrl": "",
-    "apkUrl": ""
+    "description": "Câmera alternativa com foto e vídeo.",
+    "iconUrl": "https://raw.githubusercontent.com/jackjuninho10-ai/StoreX-Repo/main/icons/camx.png",
+    "apkUrl": "https://github.com/jackjuninho10-ai/StoreX-Repo/releases/download/camx-v1.1.1/CamX_v1.1.1.apk"
   },
   {
     "name": "BandX",
-    "packageName": "com.app.bandx",
+    "packageName": "com.band.x",
     "versionName": "1.0",
     "versionCode": 1,
     "description": "Informações da rede móvel.",
-    "iconUrl": "",
-    "apkUrl": ""
+    "iconUrl": "https://raw.githubusercontent.com/jackjuninho10-ai/StoreX-Repo/main/icons/bandx.png",
+    "apkUrl": "https://github.com/jackjuninho10-ai/StoreX-Repo/releases/download/bandx-v1.0/BandX_v1.0.apk"
+  },
+  {
+    "name": "MusicX",
+    "packageName": "com.music.play.bass.x",
+    "versionName": "1.0",
+    "versionCode": 1,
+    "description": "Player de música do X Pack.",
+    "iconUrl": "https://raw.githubusercontent.com/jackjuninho10-ai/StoreX-Repo/main/icons/musicx.png",
+    "apkUrl": "https://github.com/jackjuninho10-ai/StoreX-Repo/releases/download/musicx-v1.0/MusicX_v1.0.apk"
+  },
+  {
+    "name": "NotesX",
+    "packageName": "com.notes.x",
+    "versionName": "1.0",
+    "versionCode": 1,
+    "description": "Bloco de notas simples e rápido.",
+    "iconUrl": "https://raw.githubusercontent.com/jackjuninho10-ai/StoreX-Repo/main/icons/notesx.png",
+    "apkUrl": "https://github.com/jackjuninho10-ai/StoreX-Repo/releases/download/notesx-v1.0/NotesX_v1.0.apk"
+  },
+  {
+    "name": "RecorderX",
+    "packageName": "com.recorder.x",
+    "versionName": "1.0",
+    "versionCode": 1,
+    "description": "Gravador de áudio do X Pack.",
+    "iconUrl": "https://raw.githubusercontent.com/jackjuninho10-ai/StoreX-Repo/main/icons/recorderx.png",
+    "apkUrl": "https://github.com/jackjuninho10-ai/StoreX-Repo/releases/download/recorderx-v1.0/RecorderX_v1.0.apk"
+  },
+  {
+    "name": "CalculatorX",
+    "packageName": "com.calculator.x",
+    "versionName": "2.0",
+    "versionCode": 8,
+    "description": "Calculadora simples do X Pack.",
+    "iconUrl": "https://raw.githubusercontent.com/jackjuninho10-ai/StoreX-Repo/main/icons/calculatorx.jpg",
+    "apkUrl": "https://github.com/jackjuninho10-ai/StoreX-Repo/releases/download/calculatorx-v2.0/CalculatorX_v2.0.apk"
+  },
+  {
+    "name": "XBattery",
+    "packageName": "com.battery.x",
+    "versionName": "1.0",
+    "versionCode": 1,
+    "description": "Informações de bateria.",
+    "iconUrl": "https://raw.githubusercontent.com/jackjuninho10-ai/StoreX-Repo/main/icons/xbattery.png",
+    "apkUrl": "https://github.com/jackjuninho10-ai/StoreX-Repo/releases/download/xbattery-v1.0/XBattery_v1.0.apk"
+  },
+  {
+    "name": "QrCodeX",
+    "packageName": "com.qrcode.x",
+    "versionName": "1.0",
+    "versionCode": 1,
+    "description": "Leitor e gerador de QR Code.",
+    "iconUrl": "https://raw.githubusercontent.com/jackjuninho10-ai/StoreX-Repo/main/icons/qrcode.png",
+    "apkUrl": "https://github.com/jackjuninho10-ai/StoreX-Repo/releases/download/qrcodex-v1.0/QrCodeX_v1.0.apk"
   }
 ]
-

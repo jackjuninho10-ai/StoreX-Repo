@@ -90,13 +90,13 @@
   {
     "name": "XBattery",
     "packageName": "com.battery.x",
-    "versionName": "1.0",
-    "versionCode": 1,
-    "description": "Informações de bateria.",
+    "versionName": "2.0",
+    "versionCode": 2,
+    "description": "Monitor avançado de bateria com leitura via Shizuku.",
     "iconUrl": "https://raw.githubusercontent.com/jackjuninho10-ai/StoreX-Repo/main/icons/xbattery.png",
-    "apkUrl": "https://github.com/jackjuninho10-ai/StoreX-Repo/releases/download/xbattery-v1.0/XBattery_v1.0.apk",
-    "latestUpdateLog": "XBattery v1.0 — Primeira versão\n\n• Porcentagem da bateria\n• Status de carregamento\n• Temperatura\n• Voltagem\n• Saúde e status\n• Interface escura com destaque azul",
-    "aboutLog": "XBattery é um monitor simples de bateria com informações básicas como porcentagem, carregamento, temperatura, voltagem, saúde e status."
+    "apkUrl": "https://github.com/jackjuninho10-ai/StoreX-Repo/releases/download/xbattery-v2.0/XBattery_v2.0.apk",
+    "latestUpdateLog": "XBattery v2.0 — Painel avançado de bateria\n\n• Leitura avançada via Shizuku\n• Acesso a informações ocultas do Android\n• Compatibilidade aprimorada com dispositivos Galaxy\n• Exibição da saúde real da bateria ASOC/SOH\n• Leitura de dados internos Samsung quando disponíveis\n• Detecção automática dos ciclos reais da bateria\n• Exibição da data real de primeiro uso\n• Leitura da data de fabricação da bateria\n• Novo cálculo de corrente em Watts\n• Valores positivos durante carregamento\n• Valores negativos durante descarga\n• Sistema inteligente de leitura\n• Verificação avançada em segundo plano\n• Menor tempo de espera para informações avançadas\n• Painel futurista azul escuro\n• Cards redesenhados\n• Animações suaves de atualização\n• Melhor legibilidade dos dados\n• Correções na leitura de dados Samsung\n• Melhor compatibilidade com Galaxy S24 FE\n• Correção de falhas na detecção de saúde e ciclos\n• Redução do tempo para carregamento das informações avançadas\n• Otimizações gerais de desempenho e estabilidade",
+    "aboutLog": "XBattery é o monitor avançado de bateria do X Pack. Ele mostra nível, temperatura, voltagem, potência em watts, estado, saúde, ciclos, primeiro uso e fabricação da bateria. Em dispositivos compatíveis, usa Shizuku para acessar dados internos do sistema e entregar informações mais completas."
   },
   {
     "name": "QrCodeX",

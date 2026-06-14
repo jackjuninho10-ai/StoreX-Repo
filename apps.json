@@ -1,5 +1,16 @@
 [
   {
+    "name": "StoreX",
+    "packageName": "com.store.x.pack",
+    "versionName": "1.1",
+    "versionCode": 2,
+    "description": "Loja oficial do X Pack para baixar, instalar e atualizar apps.",
+    "iconUrl": "https://raw.githubusercontent.com/jackjuninho10-ai/StoreX-Repo/main/icons/storex.png",
+    "apkUrl": "https://github.com/jackjuninho10-ai/StoreX-Repo/releases/download/storex-v1.1/StoreX_v1.1.apk",
+    "latestUpdateLog": "StoreX v1.1 — Atualização de lançamento avançado\n\n• StoreX adicionada ao próprio catálogo\n• Nova logo oficial da loja\n• Interface escura com identidade azul do X Pack\n• Tela de sem internet no lugar de popup inferior\n• Botão Tentar novamente quando o catálogo não carrega\n• Detecção de apps instalados\n• Botão inteligente: Instalar, Atualizar ou Instalado\n• Botão Instalado agora fica cinza escuro e não é clicável\n• Detecção de atualização usando versionCode\n• Download interno de APKs\n• Instalador integrado usando o instalador nativo do Android\n• Tela de download com porcentagem, barra de progresso e velocidade em KB/s ou MB/s\n• Cache local de ícones para evitar recarregamento toda vez que abrir\n• Tela de detalhes ao tocar em um app\n• Detalhes mostrando ícone, nome, tamanho, versão instalada quando existir e versão mais atual do GitHub\n• Área de log da atualização mais recente\n• Área de descrição geral sobre cada app\n• Melhorias na detecção do QrCodeX instalado\n• Melhor organização visual do catálogo\n• Preparação para futuras atualizações do X Pack",
+    "aboutLog": "StoreX é a loja oficial do X Pack. Ela centraliza os apps criados no AndroidIDE, permitindo visualizar catálogo, versões, tamanho dos APKs, logs de atualização e instalar ou atualizar aplicativos diretamente pelo GitHub. A proposta da StoreX é ser uma loja leve, escura, rápida e independente para o ecossistema X."
+  },
+  {
     "name": "DnsX",
     "packageName": "com.app.dns.internet.x",
     "versionName": "2.2",
@@ -65,6 +76,40 @@
     "latestUpdateLog": "RecorderX v1.0 — Primeira versão\n\nFuncionalidades principais:\n• Gravação de áudio em M4A\n• Histórico automático de gravações\n• Player interno para os próprios áudios\n• Reprodutor em tela cheia\n• Play, pause, parar, avançar e voltar 10s\n• Barra de progresso com tempo atual e duração total\n• Waveform animada durante gravação\n• Animação visual durante reprodução\n• Bolinhas e glows azuis que se movem com o celular\n• Interface em Kotlin com Jetpack Compose\n\nIdentidade visual:\n• Azul neon\n• Glassmorphism\n• Estilo sci-fi moderno\n• Visual inspirado em interface de nave ou sistema tático futurista\n\nOrganização dos áudios:\n• Salva e reconhece apenas os áudios criados pelo próprio RecorderX\n• Mantém o histórico limpo e separado de arquivos aleatórios do celular\n\nEstado da v1.0:\n• Base completa do app entregue\n• Gravar, listar, reproduzir e visualizar áudios com experiência fluida e imersiva",
     "aboutLog": "RecorderX é um gravador de voz moderno do X Pack, com visual futurista, fundo em gradientes azuis, animações reativas ao movimento do celular e player interno para ouvir as gravações."
   },
+  {
+    "name": "CalculatorX",
+    "packageName": "com.calculator.x",
+    "versionName": "2.0",
+    "versionCode": 8,
+    "description": "Calculadora simples do X Pack.",
+    "iconUrl": "https://raw.githubusercontent.com/jackjuninho10-ai/StoreX-Repo/main/icons/calculatorx.jpg",
+    "apkUrl": "https://github.com/jackjuninho10-ai/StoreX-Repo/releases/download/calculatorx-v2.0/CalculatorX_v2.0.apk",
+    "latestUpdateLog": "CalculatorX v2.0 — Central de Inteligência Conversora\n\nCentral de Inteligência Conversora:\n• Introdução do Conversor Hub\n• Ecossistema Multi-Unidades com 9 módulos distintos\n• Conversões de peso, massa, física, armazenamento de dados e análise de sinal\n• Interface sci-fi de alta responsividade\n• Seletor dinâmico de grandezas\n• Liberdade para converter de qualquer unidade para qualquer outra dentro da mesma categoria\n• Motor matemático universal com fatores de conversão em tempo real\n\nInterface e UX:\n• Navegação de ciclo único\n• Design minimalista e focado\n• Modo de Combate para alternar entre modo básico, científico e Hub de Conversões\n• Visor com efeito Smooth-Growth\n• Números surgem com crescimento suave da direita para a esquerda\n• Feedback tátil de alta fidelidade\n• Resposta curta e seca em cada botão\n\nInteligência de uso:\n• Setas de conversão de alta precisão\n• Sistema de inversão de fluxo com seta ↑↓\n• Motor de rotação física com precisão angular de 180°\n• Modo científico sob demanda\n• Potências, raízes e funções trigonométricas aparecem apenas quando necessário",
+    "aboutLog": "CalculatorX é a calculadora do X Pack. Ela combina cálculo básico, científico e conversões em uma interface futurista, rápida e direta, com foco em utilidade e visual de alta tecnologia."
+  },
+  {
+    "name": "XBattery",
+    "packageName": "com.battery.x",
+    "versionName": "1.0",
+    "versionCode": 1,
+    "description": "Informações de bateria.",
+    "iconUrl": "https://raw.githubusercontent.com/jackjuninho10-ai/StoreX-Repo/main/icons/xbattery.png",
+    "apkUrl": "https://github.com/jackjuninho10-ai/StoreX-Repo/releases/download/xbattery-v1.0/XBattery_v1.0.apk",
+    "latestUpdateLog": "XBattery v1.0 — Primeira versão\n\n• App inicial do X Pack para monitoramento simples da bateria\n• Exibição da porcentagem atual\n• Indicação se o aparelho está carregando\n• Exibição de temperatura da bateria\n• Exibição de voltagem\n• Cards de saúde e status da bateria\n• Interface escura com destaque azul\n• Visual simples, direto e leve",
+    "aboutLog": "XBattery é um monitor simples de bateria. Ele mostra informações básicas como porcentagem, carregamento, temperatura, voltagem, saúde e status, com uma interface escura e limpa."
+  },
+  {
+    "name": "QrCodeX",
+    "packageName": "com.qrcode.x",
+    "versionName": "1.0",
+    "versionCode": 1,
+    "description": "Leitor e gerador de QR Code.",
+    "iconUrl": "https://raw.githubusercontent.com/jackjuninho10-ai/StoreX-Repo/main/icons/qrcode.png",
+    "apkUrl": "https://github.com/jackjuninho10-ai/StoreX-Repo/releases/download/qrcodex-v1.0/QrCodeX_v1.0.apk",
+    "latestUpdateLog": "QrCodeX v1.0 — Scan, Create, Share\n\nLançamento: 06/06/2026\n\nNovidades:\n• Leitor de QR Code\n• Escaneamento em tempo real\n• Reconhecimento rápido de QR Codes\n• Compatível com links, textos e outros conteúdos\n\nGerador de QR Code:\n• Criação de QR Codes a partir de textos\n• Geração instantânea\n• Visualização integrada\n\nInterface:\n• Tema escuro moderno\n• Detalhes em azul neon\n• Design otimizado para Android\n\nTecnologias:\n• Jetpack Compose\n• Material 3\n• CameraX\n• ML Kit Barcode Scanning\n• ZXing\n\nCompatibilidade:\n• Android 12+\n• Otimizado para Galaxy\n• Compatível com smartphones e tablets\n\nDesempenho:\n• Primeira compilação realizada com sucesso\n• APK gerado\n• Testado em dispositivo Samsung via Android Studio\n\nCorreções:\n• Ajustes iniciais de dependências\n• Correção de configuração do Gradle\n• Correção do ícone adaptativo",
+    "aboutLog": "QrCodeX é o app do X Pack para ler, criar e compartilhar QR Codes. Ele foi pensado para ser rápido, moderno e útil no dia a dia, com visual escuro e detalhes em azul neon."
+  }
+]  },
   {
     "name": "CalculatorX",
     "packageName": "com.calculator.x",

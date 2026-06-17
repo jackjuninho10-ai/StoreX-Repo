@@ -1,14 +1,14 @@
 [
   {
-    "name": "StoreX",
-    "packageName": "com.store.x.pack",
-    "versionName": "1.2",
-    "versionCode": 3,
-    "description": "Loja oficial do X Pack para baixar, instalar e atualizar apps.",
-    "iconUrl": "https://raw.githubusercontent.com/jackjuninho10-ai/StoreX-Repo/main/icons/storex.png",
-    "apkUrl": "https://github.com/jackjuninho10-ai/StoreX-Repo/releases/download/storex-v1.2/StoreX_v1.2.apk",
-    "latestUpdateLog": "StoreX v1.2 — Login Google e melhorias internas\n\n• Adicionado login com conta Google\n• Foto da conta Google no canto superior direito\n• Downloads preparados para integração com Firebase\n• Atualizações não contam como novo download\n• Tela de login redesenhada\n• Melhorias no catálogo\n• Melhorias na detecção de apps instalados\n• Ajustes no sistema de atualização\n• Correções internas",
-    "aboutLog": "StoreX é a loja oficial do X Pack. Ela centraliza os apps criados no AndroidIDE, permitindo visualizar catálogo, versões, tamanho dos APKs, logs de atualização e instalar ou atualizar aplicativos diretamente pelo GitHub."
+  "name": "StoreX",
+  "packageName": "com.store.x.pack",
+  "versionName": "1.2.0.1",
+  "versionCode": 4,
+  "description": "Loja oficial do X Pack para baixar, instalar e atualizar apps.",
+  "iconUrl": "https://raw.githubusercontent.com/jackjuninho10-ai/StoreX-Repo/main/icons/storex.png",
+  "apkUrl": "https://github.com/jackjuninho10-ai/StoreX-Repo/releases/download/storex-v1.2.0.1/StoreX_v1.2.0.1.apk",
+  "latestUpdateLog": "StoreX v1.2.0.1 — Correção rápida\n\n• Corrigido texto do botão Atualizar que podia aparecer cortado como Atualiza\n• Ajustada largura dos botões de ação\n• Ajustado padding interno dos botões\n• Melhor compatibilidade visual em tablets e telas maiores",
+  "aboutLog": "StoreX é a loja oficial do X Pack. Ela centraliza os apps criados no AndroidIDE, permitindo visualizar catálogo, versões, tamanho dos APKs, logs de atualização e instalar ou atualizar aplicativos diretamente pelo GitHub."
   },
   {
     "name": "DnsX",

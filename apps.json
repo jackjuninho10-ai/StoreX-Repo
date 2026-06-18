@@ -22,15 +22,15 @@
     "aboutLog": "DnsX é um app do X Pack focado em DNS, rede e VPN local. Ele ajuda a testar, comparar e usar DNS de forma prática no Android."
   },
   {
-    "name": "CamX",
-    "packageName": "com.app.camera.x",
-    "versionName": "1.1.1",
-    "versionCode": 3,
-    "description": "Câmera alternativa com foto e vídeo.",
-    "iconUrl": "https://raw.githubusercontent.com/jackjuninho10-ai/StoreX-Repo/main/icons/camx.png",
-    "apkUrl": "https://github.com/jackjuninho10-ai/StoreX-Repo/releases/download/camx-v1.1.1/CamX_v1.1.1.apk",
-    "latestUpdateLog": "CamX v1.1.1 — Atualização de Paisagem\n\n• Interface adaptada para modo paisagem\n• Preview da câmera ajustado\n• Correção de desalinhamento ao girar o celular\n• Correção de esticamento da pré-visualização\n• Melhor compatibilidade com telas diferentes\n• Melhorias internas de desempenho",
-    "aboutLog": "CamX é uma câmera alternativa do X Pack criada para testar recursos de foto e vídeo com visual próprio, interface simples e evolução rápida."
+  "name": "CamX",
+  "packageName": "com.app.camera.x",
+  "versionName": "1.2",
+  "versionCode": 4,
+  "description": "Câmera alternativa com Horizon Lock experimental.",
+  "iconUrl": "https://raw.githubusercontent.com/jackjuninho10-ai/StoreX-Repo/main/icons/camx.png",
+  "apkUrl": "https://github.com/jackjuninho10-ai/StoreX-Repo/releases/download/camx-v1.2/CamX_v1.2.apk",
+  "latestUpdateLog": "CamX v1.2 — Horizon Update\n\n• Novo modo Horizon Lock Experimental\n• Gravação travada em 9:16 mesmo durante movimentos do aparelho\n• Uso da câmera ultrawide para maior margem de estabilização\n• Horizon Lock disponível apenas no modo vídeo\n• Interface dedicada para Horizon Lock\n• Preview centralizado corretamente\n• 9:16 em todos os modos verticais\n• 16:9 apenas em modo paisagem\n• Pílulas superiores refinadas\n• Corrigido tamanho excessivo das pílulas de informação\n• Botões secundários reposicionados\n• Melhor distribuição dos controles na tela\n• Ajustes finos de transparência e espaçamento\n• Corrigido crash ao alternar entre câmera principal e ultrawide no modo foto\n• Corrigidos conflitos durante reabertura da câmera\n• Corrigidos travamentos ao girar o aparelho\n• Corrigidos crashes ao entrar em modo paisagem\n• Reestruturação do ciclo de abertura e fechamento da câmera\n• Melhor gerenciamento de sessões Camera2\n• Menor chance de conflitos internos\n• Redução significativa de crashes inesperados",
+  "aboutLog": "CamX é uma câmera alternativa do X Pack criada para testar recursos de foto e vídeo com visual próprio, interface simples e evolução rápida. A versão 1.2 traz o Horizon Lock Experimental, melhorias de proporção, refinamento visual e uma grande reestruturação de estabilidade."
   },
   {
     "name": "BandX",

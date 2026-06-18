@@ -24,13 +24,13 @@
   {
   "name": "CamX",
   "packageName": "com.app.camera.x",
-  "versionName": "1.2",
-  "versionCode": 4,
-  "description": "Câmera alternativa com Horizon Lock experimental.",
+  "versionName": "1.2.0.1",
+  "versionCode": 5,
+  "description": "Câmera alternativa com Horizon Lock e perfis avançados por aparelho.",
   "iconUrl": "https://raw.githubusercontent.com/jackjuninho10-ai/StoreX-Repo/main/icons/camx.png",
-  "apkUrl": "https://github.com/jackjuninho10-ai/StoreX-Repo/releases/download/camx-v1.2/CamX_v1.2.apk",
-  "latestUpdateLog": "CamX v1.2 — Horizon Update\n\n• Novo modo Horizon Lock Experimental\n• Gravação travada em 9:16 mesmo durante movimentos do aparelho\n• Uso da câmera ultrawide para maior margem de estabilização\n• Horizon Lock disponível apenas no modo vídeo\n• Interface dedicada para Horizon Lock\n• Preview centralizado corretamente\n• 9:16 em todos os modos verticais\n• 16:9 apenas em modo paisagem\n• Pílulas superiores refinadas\n• Corrigido tamanho excessivo das pílulas de informação\n• Botões secundários reposicionados\n• Melhor distribuição dos controles na tela\n• Ajustes finos de transparência e espaçamento\n• Corrigido crash ao alternar entre câmera principal e ultrawide no modo foto\n• Corrigidos conflitos durante reabertura da câmera\n• Corrigidos travamentos ao girar o aparelho\n• Corrigidos crashes ao entrar em modo paisagem\n• Reestruturação do ciclo de abertura e fechamento da câmera\n• Melhor gerenciamento de sessões Camera2\n• Menor chance de conflitos internos\n• Redução significativa de crashes inesperados",
-  "aboutLog": "CamX é uma câmera alternativa do X Pack criada para testar recursos de foto e vídeo com visual próprio, interface simples e evolução rápida. A versão 1.2 traz o Horizon Lock Experimental, melhorias de proporção, refinamento visual e uma grande reestruturação de estabilidade."
+  "apkUrl": "https://github.com/jackjuninho10-ai/StoreX-Repo/releases/download/camx-v1.2.0.1/CamX_v1.2.0.1.apk",
+  "latestUpdateLog": "CamX v1.2.0.1 — Perfis avançados e resoluções especiais\n\n• Novo menu flutuante de resoluções ao tocar na qualidade atual\n• Perfis especiais por aparelho\n• Perfil Galaxy S avançado para S24 FE, S24, S24+, S24 Ultra, S25 FE, S25 Edge, S25, S25+, S25 Ultra, S26, S26+ e S26 Ultra\n• Perfil Lite para Tab S6 Lite 2024 Wi-Fi, Tab S6 Lite 2024 4G, Tab S10 Lite Wi-Fi e Tab S10 Lite 5G\n• Banco separado de modelos selecionados para resoluções específicas\n• Melhor organização das resoluções por câmera\n• Modo vídeo não volta mais para foto ao girar a tela\n• Horizon Lock recebeu ajuste de zoom para reduzir bordas pretas nas câmeras principais ou frontais\n• Corrigido bug onde o modo Horizon Lock gravava sem áudio\n• Mais estabilidade ao trocar câmera e resolução\n• 720p, 1080p e 4K 120fps no perfil Galaxy S avançado\n• 720p e 1080p 240fps experimental onde o Camera2 liberar",
+  "aboutLog": "CamX é uma câmera alternativa do X Pack criada para testar recursos de foto e vídeo com visual próprio, interface simples e evolução rápida. A versão 1.2.0.1 adiciona menu flutuante de resoluções, perfis avançados por aparelho, banco de modelos selecionados e melhorias importantes no Horizon Lock."
   },
   {
     "name": "BandX",
